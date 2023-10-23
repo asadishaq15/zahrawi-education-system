@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51748215.css",
+    "main.js": "/static/js/main.10233671.js",
+    "static/js/787.b360f79d.chunk.js": "/static/js/787.b360f79d.chunk.js",
+    "static/media/campusPhoto.jpg": "/static/media/campusPhoto.8c72f17a2ff8018c5f97.jpg",
+    "static/media/childPhoto.jpeg": "/static/media/childPhoto.46b5bea13abe7f8f8fba.jpeg",
+    "static/media/play area.webp": "/static/media/play area.17ebd239a1a5a7f9105a.webp",
+    "static/media/evaluation2.jpg": "/static/media/evaluation2.db84e9c48f8af756c91e.jpg",
+    "static/media/evaluationPhoto.jpg": "/static/media/evaluationPhoto.e2a673e4c826ffca475d.jpg",
+    "static/media/college-logo.png": "/static/media/college-logo.3b2f94df328b3b1ee0f4.png",
+    "static/media/poster3.jpg": "/static/media/poster3.00197ebedf1b0766805a.jpg",
+    "static/media/cafeteria.jpeg": "/static/media/cafeteria.8897a1bb22d7a1a613bb.jpeg",
+    "static/media/poster2.jpeg": "/static/media/poster2.39b18f66c178a3460966.jpeg",
+    "static/media/tagline.jpg": "/static/media/tagline.134e190ae3ba99729d18.jpg",
+    "static/media/poster1.jpeg": "/static/media/poster1.a43db5e14ca1b6ecfb7a.jpeg",
+    "static/media/flag.jpeg": "/static/media/flag.37ca14f9a9df8a568fd9.jpeg",
+    "static/media/headerBack.jpg": "/static/media/headerBack.5a99f85f3d32f65f6c26.jpg",
+    "index.html": "/index.html",
+    "main.51748215.css.map": "/static/css/main.51748215.css.map",
+    "main.10233671.js.map": "/static/js/main.10233671.js.map",
+    "787.b360f79d.chunk.js.map": "/static/js/787.b360f79d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51748215.css",
+    "static/js/main.10233671.js"
+  ]
+}
