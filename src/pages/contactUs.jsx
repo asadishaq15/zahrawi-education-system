@@ -22,7 +22,7 @@ function ContactUsForm() {
     console.log('Submitting form data:', formData);
 
     try {
-      const response = await axios.post('http://localhost:3001/contact-form', formData);
+      const response = await axios.post('https://zahrawieducation-60e4fd66f6b9.herokuapp.com/contact-form', formData);
 
       console.log('Response status:', response.status);
 
